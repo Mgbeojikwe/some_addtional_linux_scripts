@@ -14,6 +14,8 @@
 #version : 1.0 
 #usage : compile in the latest bash enviroment
 #notes: this code must be changed to execution mode i.e chmod 700 $file_name before it can run 
+# This scrpit runs automatically ones "instantiate.sh" is executed.
+
 #bash version: GNU bash, version 5.1.8(1)-release (x86_64-redhat-linux-gnu)
 
 
